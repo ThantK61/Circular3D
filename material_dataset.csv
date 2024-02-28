@@ -1,0 +1,5 @@
+Material,Material Identity,Density (kg/m^3),Young Modulus (MPa),Poisson Ratio,Thermal Conductivity (W/m/K),Expansion Coefficient (mum/m/K),Specific Heat (J/kg/K)
+Bio-plastic,STL,7850,200000,0.3,50,11,450
+Celluose,ALM,2700,70000,0.33,200,23,900
+Hemp,COP,8900,120000,0.34,400,17,385
+lignin,TIT,4500,116000,0.32,20,8,520
