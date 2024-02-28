@@ -17,5 +17,5 @@ Traditional manufacturing processes generate significant waste and rely on unsus
 #### Team Member
 1. Gesa Schneider
 2. Jai Prakash
-3. Khaing Zin Khant
+3. Khaing Zin Thant
 4. Aswin Pyakurel
