@@ -24,4 +24,5 @@ user_requirements = {
 if st.button("Get Recommendations"):
     recommendations = get_recommendations(user_requirements)
     st.text("Recommendations")
-    st.dataframe(recommendations)
+    df = recommendations[:5]
+    st.write(df.to_html(index=False), unsafe_allow_html=True)
